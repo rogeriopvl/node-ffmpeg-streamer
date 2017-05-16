@@ -1,5 +1,7 @@
 # Node FFmpeg Streamer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rogeriopvl/node-ffmpeg-streamer.svg)](https://greenkeeper.io/)
+
 Web app that converts any youtube video into mp3 in realtime.
 
 This project is just a proof of concept.
